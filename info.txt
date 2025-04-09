@@ -1,0 +1,11 @@
+YouMeal
+
+Доставка еды
+
+→ Жанр: #LandingPage
+→ Сложность: #средний
+→ Язык: #RU
+→ Адаптив: Есть
+
+figma → https://www.figma.com/design/RvSqhKlJ62r93LdskD3Icz/YouMeal?node-id=0-1&node-type=canvas
+

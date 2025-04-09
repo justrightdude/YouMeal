@@ -1,0 +1,29 @@
+html {
+    font-size: 10px;
+  
+    @media (min-width: 2000px) {
+      font-size: 12px;
+    }
+  }
+  
+  body {
+    background-color:#FFFFFF;
+    color: black;
+    font: 400 1.6rem/1.5 'Nunito', sans-serif;
+  }
+
+  img {
+    display: block;
+    width: 100%; 
+  }
+
+  ul::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+  
+  .center {
+    margin: 0 auto;
+    padding: 0 1rem;
+    max-width: 129.2rem;
+  }
